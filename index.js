@@ -10,6 +10,6 @@ $(document).ready(function() {
     });
 
     $('#tarefaList').on('click', 'li', function() {
-        $(this).toggleClass('completed');
+        $(this).toggleClass('clicar');
     });
 });

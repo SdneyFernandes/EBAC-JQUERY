@@ -36,4 +36,11 @@ ul{
 margin-left: 100px;
 list-style: square;
 color: rgb(20, 211, 20);
+cursor: pointer;
+}
+
+
+
+.clicar{
+    text-decoration: line-through
 }
